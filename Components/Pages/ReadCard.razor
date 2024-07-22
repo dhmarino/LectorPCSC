@@ -1,0 +1,67 @@
+﻿@page "/readcard"
+
+@inject IJSRuntime JSRuntime
+@inject NavigationManager navigationManager
+@implements IDisposable
+@using Microsoft.AspNetCore.SignalR.Client;
+
+<h3>ATR de la tarjeta</h3>
+<p>@atr</p>
+
+@code {
+    private string atr;
+    private HubConnection hubConnection;
+
+    protected override async Task OnInitializedAsync()
+    {
+        hubConnection = new HubConnectionBuilder()
+            .WithUrl(navigationManager.ToAbsoluteUri("/cardReaderHub"))
+            .Build();
+
+        hubConnection.On<string>("ReceiveATR", (atr) =>
+        {
+            this.atr = atr;
+            StateHasChanged();
+        });
+
+        await hubConnection.StartAsync();
+        await hubConnection.InvokeAsync("SendATR");
+    }
+
+    public void Dispose()
+    {
+        _ = hubConnection.DisposeAsync();
+    }
+}
+
+
+@* 
+@page "/read-card"
+@rendermode InteractiveServer
+
+@using LectorPCSC.Services
+@inject SmartCardService SmartCardService
+
+<PageTitle>Leer ATR del Chip</PageTitle>
+
+<h1>Reader CARD</h1>
+
+<p role="status">Current ATR: @_atr</p>
+
+<button class="btn btn-secondary" @onclick="ReadAtr">Leer ATR</button>
+
+@code {
+    private string _atr = "";
+        
+    private async Task ReadAtr()
+    {
+        try
+        {
+            _atr = await Task.Run(() => SmartCardService.GetAtrAsync());
+        }
+        catch (Exception ex)
+        {
+            _atr = $"Error: {ex.Message}";
+        }
+    }
+} *@

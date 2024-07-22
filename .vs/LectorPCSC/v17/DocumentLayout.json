@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\services\\cardreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:services\\cardreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\components\\pages\\readcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:components\\pages\\readcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\services\\cardreaderhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:services\\cardreaderhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\services\\smartcardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:services\\smartcardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\services\\smartcardservice - old.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:services\\smartcardservice - old.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T16:55:59.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CardReader.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Services\\CardReader.cs",
+              "RelativeDocumentMoniker": "Services\\CardReader.cs",
+              "ToolTip": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Services\\CardReader.cs",
+              "RelativeToolTip": "Services\\CardReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:09:26.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CardReaderHub.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Services\\CardReaderHub.cs",
+              "RelativeDocumentMoniker": "Services\\CardReaderHub.cs",
+              "ToolTip": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Services\\CardReaderHub.cs",
+              "RelativeToolTip": "Services\\CardReaderHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:48:07.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SmartCardService - old.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Services\\SmartCardService - old.cs",
+              "RelativeDocumentMoniker": "Services\\SmartCardService - old.cs",
+              "ToolTip": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Services\\SmartCardService - old.cs",
+              "RelativeToolTip": "Services\\SmartCardService - old.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:25:34.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReadCard.razor",
+              "DocumentMoniker": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Components\\Pages\\ReadCard.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\ReadCard.razor",
+              "ToolTip": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Components\\Pages\\ReadCard.razor",
+              "RelativeToolTip": "Components\\Pages\\ReadCard.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T13:38:06.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T13:31:32.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T13:25:19.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:21:18.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SmartCardService.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Services\\SmartCardService.cs",
+              "RelativeDocumentMoniker": "Services\\SmartCardService.cs",
+              "ToolTip": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Services\\SmartCardService.cs",
+              "RelativeToolTip": "Services\\SmartCardService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:11:59.54Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

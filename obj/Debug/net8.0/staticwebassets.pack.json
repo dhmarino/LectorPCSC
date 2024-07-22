@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LectorPCSC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LectorPCSC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LectorPCSC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LectorPCSC.props",
+      "PackagePath": "build\\LectorPCSC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LectorPCSC.props",
+      "PackagePath": "buildMultiTargeting\\LectorPCSC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LectorPCSC.props",
+      "PackagePath": "buildTransitive\\LectorPCSC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
