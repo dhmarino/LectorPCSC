@@ -27,14 +27,7 @@ C:\Desarrollo\03_Proyectos_Blazor\LectorPCSC\obj\Debug\net8.0\refint\LectorPCSC.
 C:\Desarrollo\03_Proyectos_Blazor\LectorPCSC\obj\Debug\net8.0\LectorPCSC.pdb
 C:\Desarrollo\03_Proyectos_Blazor\LectorPCSC\obj\Debug\net8.0\LectorPCSC.genruntimeconfig.cache
 C:\Desarrollo\03_Proyectos_Blazor\LectorPCSC\obj\Debug\net8.0\ref\LectorPCSC.dll
-C:\Desarrollo\03_Proyectos_Blazor\LectorPCSC\bin\Debug\net8.0\GS.Apdu.dll
-C:\Desarrollo\03_Proyectos_Blazor\LectorPCSC\bin\Debug\net8.0\GS.CSharpPCSC.dll
-C:\Desarrollo\03_Proyectos_Blazor\LectorPCSC\bin\Debug\net8.0\GS.HexLibrary.dll
 C:\Desarrollo\03_Proyectos_Blazor\LectorPCSC\bin\Debug\net8.0\PCSC.dll
-C:\Desarrollo\03_Proyectos_Blazor\LectorPCSC\bin\Debug\net8.0\GS.Apdu.pdb
-C:\Desarrollo\03_Proyectos_Blazor\LectorPCSC\bin\Debug\net8.0\GS.CSharpPCSC.pdb
-C:\Desarrollo\03_Proyectos_Blazor\LectorPCSC\bin\Debug\net8.0\GS.CSharpPCSC.xml
-C:\Desarrollo\03_Proyectos_Blazor\LectorPCSC\bin\Debug\net8.0\GS.HexLibrary.pdb
 C:\Desarrollo\03_Proyectos_Blazor\LectorPCSC\bin\Debug\net8.0\PCSC.pdb
 C:\Desarrollo\03_Proyectos_Blazor\LectorPCSC\bin\Debug\net8.0\PCSC.xml
 C:\Desarrollo\03_Proyectos_Blazor\LectorPCSC\bin\Debug\net8.0\PCSC.dll.config

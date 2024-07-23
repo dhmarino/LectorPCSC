@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wk6O+Rhcdq2qcz6cHr33IJGq/W5ZKh1bpASVOzXVwo0=",
+  "Hash": "Amw6x2UXMsmoz/4irVTeWJjwa4etS8HgFvYBryc38EA=",
   "Source": "LectorPCSC",
   "BasePath": "_content/LectorPCSC",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\wwwroot\\js\\pcscReader.js",
+      "SourceId": "LectorPCSC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\wwwroot\\",
+      "BasePath": "_content/LectorPCSC",
+      "RelativePath": "js/pcscReader.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\pcscReader.js"
     }
   ]
 }

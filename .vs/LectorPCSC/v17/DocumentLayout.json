@@ -3,40 +3,48 @@
   "WorkspaceRootPath": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\lectorpcsc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:lectorpcsc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\services\\cardreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:services\\cardreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\components\\pages\\readcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:components\\pages\\readcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\services\\cardreaderhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:services\\cardreaderhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\wwwroot\\js\\pcscreader.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:wwwroot\\js\\pcscreader.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\services\\smartcardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:services\\smartcardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\services\\smartcardservice - old.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:services\\smartcardservice - old.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|c:\\desarrollo\\03_proyectos_blazor\\lectorpcsc\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7EA8BEB-604C-45C0-BCA7-81871C0EB159}|LectorPCSC.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +54,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T17:58:10.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LectorPCSC",
+              "DocumentMoniker": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\LectorPCSC.csproj",
+              "RelativeDocumentMoniker": "LectorPCSC.csproj",
+              "ToolTip": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\LectorPCSC.csproj",
+              "RelativeToolTip": "LectorPCSC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-23T17:48:47.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T17:45:59.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "pcscReader.js",
+              "DocumentMoniker": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\wwwroot\\js\\pcscReader.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\pcscReader.js",
+              "ToolTip": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\wwwroot\\js\\pcscReader.js",
+              "RelativeToolTip": "wwwroot\\js\\pcscReader.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-23T17:29:10.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\app.css",
+              "ToolTip": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\wwwroot\\app.css",
+              "RelativeToolTip": "wwwroot\\app.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-23T17:26:18.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T15:49:03.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Routes.razor",
               "DocumentMoniker": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Components\\Routes.razor",
               "RelativeDocumentMoniker": "Components\\Routes.razor",
@@ -58,65 +144,31 @@
               "RelativeToolTip": "Components\\Routes.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-10T16:55:59.714Z"
+              "WhenOpened": "2024-07-10T16:55:59.714Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CardReader.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Services\\CardReader.cs",
-              "RelativeDocumentMoniker": "Services\\CardReader.cs",
-              "ToolTip": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Services\\CardReader.cs",
-              "RelativeToolTip": "Services\\CardReader.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T16:09:26.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CardReaderHub.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Services\\CardReaderHub.cs",
-              "RelativeDocumentMoniker": "Services\\CardReaderHub.cs",
-              "ToolTip": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Services\\CardReaderHub.cs",
-              "RelativeToolTip": "Services\\CardReaderHub.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T15:48:07.319Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SmartCardService - old.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Services\\SmartCardService - old.cs",
-              "RelativeDocumentMoniker": "Services\\SmartCardService - old.cs",
-              "ToolTip": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Services\\SmartCardService - old.cs",
-              "RelativeToolTip": "Services\\SmartCardService - old.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T14:25:34.402Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "ReadCard.razor",
               "DocumentMoniker": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Components\\Pages\\ReadCard.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\ReadCard.razor",
               "ToolTip": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Components\\Pages\\ReadCard.razor",
               "RelativeToolTip": "Components\\Pages\\ReadCard.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-05T13:38:06.358Z"
+              "WhenOpened": "2024-07-05T13:38:06.358Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
               "ToolTip": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Components\\Pages\\Counter.razor",
               "RelativeToolTip": "Components\\Pages\\Counter.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-05T13:31:32.542Z",
               "EditorCaption": ""
@@ -129,34 +181,23 @@
               "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
               "ToolTip": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-05T13:25:19.59Z"
+              "WhenOpened": "2024-07-05T13:25:19.59Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T13:21:18.938Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SmartCardService.cs",
-              "DocumentMoniker": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Services\\SmartCardService.cs",
-              "RelativeDocumentMoniker": "Services\\SmartCardService.cs",
-              "ToolTip": "C:\\Desarrollo\\03_Proyectos_Blazor\\LectorPCSC\\Services\\SmartCardService.cs",
-              "RelativeToolTip": "Services\\SmartCardService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T13:11:59.54Z"
             }
           ]
         }

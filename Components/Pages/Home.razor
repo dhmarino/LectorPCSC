@@ -5,3 +5,9 @@
 <h1>Hello, world!</h1>
 
 Welcome to your new app.
+
+<div><p class="h6">Versión: @version</p></div>
+
+@code {
+     Version version = typeof(Program).Assembly.GetName().Version;
+ }

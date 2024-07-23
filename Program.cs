@@ -1,5 +1,4 @@
 using LectorPCSC.Components;
-using LectorPCSC.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,7 +7,17 @@ builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
 builder.Services.AddHttpClient();
-builder.Services.AddScoped<SmartCardService>(); //Esto es para agregar el servicio para el lector de TJs
+
+//AddCors se usa para leer el ATR en los lectores de tarjetas
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowLocal", builder =>
+    {
+        builder.WithOrigins("https://localhost:44371", "http://172.16.100.201") // Replace with your Blazor app's origin
+               .AllowAnyMethod()
+               .AllowAnyHeader();
+    });
+});
 
 var app = builder.Build();
 
@@ -53,10 +62,11 @@ public class Startup
         app.UseStaticFiles();
         app.UseRouting();
 
+        app.UseCors("AllowLocal"); //Se usa para los lectores de tarjetas
+        
         app.UseEndpoints(endpoints =>
         {
             endpoints.MapBlazorHub();
-            endpoints.MapHub<CardReaderHub>("/cardReaderHub");
             endpoints.MapFallbackToPage("/_Host");
         });
     }
